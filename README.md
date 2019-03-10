@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. HA just kidding it's a plot to invade other countries with porposes. 
 
 ## Purpose
 

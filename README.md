@@ -25,5 +25,6 @@ It's like a dolphin
 but you knew that already
 
 ## Deployment of porpose
+## Copyright ain't shit
 
 A thing that we do I guess?

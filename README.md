@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Porpose
 
-It's like a dolphin
+It's like a dolphin, but a weapon, with fins
 
 ## Deployment of porpose
 

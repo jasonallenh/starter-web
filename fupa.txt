@@ -2,3 +2,10 @@ Frontal
 Upper
 Pubic
 Area
+
+FFFFFFFFF  U       U   PPPPPPPPP   AAAAAAAAA
+F          U       U   P       P   A       A
+FFFFF      U       U   PPPPPPPPP   AAAAAAAAA
+F          U       U   P           A       A
+F          U       U   P           A       A
+F          UUUUUUUUU   P           A       A

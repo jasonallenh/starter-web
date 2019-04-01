@@ -10,7 +10,7 @@
 	way to go dingus i hate you
     <name>
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY COLON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, caliphate is bad

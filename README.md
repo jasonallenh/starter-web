@@ -23,8 +23,6 @@ y tho!>!>
 
 
 It's like a dolphin, but a weapon, with fins
-
-It's like a dolphin
 but you knew that already
 
 ## Deployment of porpose
